@@ -91,6 +91,10 @@ Now you can try visualizing standard 32k data on the subject in `wb_view`.
 wb_command -metric-resample sub-0001_hemi-L_smooth-3mm_myelin.func.gii sub-0001_acq-MPRAGE_run-1_hemi-L_sphere.surf.gii ../data/templateflow/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-L_den-32k_sphere.surf.gii  ADAP_BARY_AREA  sub-0001_hemi-L_smooth-3mm_space-fsLR_den-32k_myelin.func.gii -area-surfs sub-0001_acq-MPRAGE_run-1_hemi-L_midthickness.surf.gii sub-0001_acq-MPRAGE_run-1_hemi-L_space-fsLR_den-32k_midthickness.surf.gii
 ```
 
+...
+
+exercise: try mapping an atlas parcellation back to a subject's T1w volume
+
 ## CIFTI
 
 In addition to the surface-based processing above, the combined surf+vol ("Grayordinates") are another reason to work with CIFTI.
