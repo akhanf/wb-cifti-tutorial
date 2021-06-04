@@ -6,6 +6,15 @@ https://docs.google.com/presentation/d/1aE4J3XDQ8pWLJfAehLS7NBeiLoyq4SzpgZHUf81O
 
 ### Hands-on tutorial material below will be updated throughout the demo
 
+## Data:
+
+All tutorial data can be found on:
+ - Khanlab CBS server share @ `/srv/khan/shared/data/2021_connectomewb_tutorial`
+
+Recommended templates and parcellations to download:
+ - [HCP-MMP](https://balsa.wustl.edu/reference/show/6V6gD)
+ - [Schaeffer atlas](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal/Parcellations/HCP/fslr32k/cifti)
+ - [templateflow](https://www.templateflow.org/)
 
 ## Example: myelin mapping
 
@@ -52,12 +61,6 @@ wb_command -metric-palette ?h.myelin.func.gii MODE_USER_SCALE -pos-user 0 0.05 -
 ## Templates
 
 Now, what if we want to use an atlas parcellation or visualize on a standard template??
-
-###  parcellations
- - HCP-MMP
-https://balsa.wustl.edu/reference/show/6V6gD
- - Schaeffer 
- https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal/Parcellations/HCP/fslr32k/cifti
 
 
 
