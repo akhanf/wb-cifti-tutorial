@@ -4,7 +4,7 @@ Connectome workbench and GIFTI/CIFTI tutorial
 Slides:
 https://docs.google.com/presentation/d/1aE4J3XDQ8pWLJfAehLS7NBeiLoyq4SzpgZHUf81OkvY/edit?usp=sharing
 
-# Hands-on tutorial material will be updated here
+### Hands-on tutorial material below will be updated throughout the demo
 
 
 ## Example: myelin mapping
